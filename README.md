@@ -219,4 +219,4 @@ print(f'Actual class for sample input: {label_encoder.inverse_transform([y_test[
 
 
 ## RESULT
-Include your result here
+A neural network classification model was successfully developed and trained to accurately predict customer segments (A, B, C, and D) for new market data.
